@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function() {
               this.parentNode.parentNode.removeChild(this.parentNode);
             };
             del.innerText = "X";
-            del.style.color = "red";
+            del.style.color = "darkblue";
             del.style.cursor = "pointer";
             item.type = "checkbox";
             item.addEventListener("click", function() {
