@@ -3,10 +3,10 @@
     height: 80vh;
     border: 1px solid black;
 }
-
 #TaskListName {
     width: 100%;
     font-size: 24pt;
     text-align: center;
     color: red;
+    font-weight: bold;
 }
